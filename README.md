@@ -1,1 +1,2 @@
-# module-music-2
+# Module Music 2
+The second module music piece.
